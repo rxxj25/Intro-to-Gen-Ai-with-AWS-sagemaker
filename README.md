@@ -1,5 +1,5 @@
 # Intro-to-Gen-Ai-with-AWS-sagemaker
-ntroduction to Generative AI with AWS SageMaker
+Introduction to Generative AI with AWS SageMaker
 
 This repository explores the fundamentals of Generative AI using AWS SageMaker, Amazon's comprehensive machine learning service. It contains projects, code examples, and tutorials designed to demonstrate the power and versatility of generative models for creating meaningful and innovative solutions.
 
